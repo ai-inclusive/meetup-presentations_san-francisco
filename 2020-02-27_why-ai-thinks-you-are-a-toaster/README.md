@@ -1,2 +1,2 @@
-# meetup-presentations_san-francisco
-AI Inclusive San Francisco, California
+# Why AI Thinks You’re A Toaster (and why you should care)
+Link to the event: https://www.meetup.com/ai-inclusive-san-francisco/events/268667409/
